@@ -1,0 +1,9 @@
+Client ABC requires monthly reports.
+
+Password reset requests must be handled within 24 hours.
+
+The billing cycle starts on the first day of every month.
+
+Users can update account information through the profile settings page.
+
+Premium customers receive priority support.

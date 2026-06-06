@@ -1,0 +1,10 @@
+Meeting Date: 2026-06-01
+
+Discussed:
+- RAG architecture
+- ChromaDB implementation
+- Monthly reporting requirements
+
+Action Items:
+- Build conversational assistant
+- Add memory retrieval capability
